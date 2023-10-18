@@ -1,2 +1,2 @@
-conflict 1
+master new-feature-1
 
